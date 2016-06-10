@@ -24,11 +24,14 @@
 .big {
     margin-left:1.5%;
     margin-right:1.5%;
-    background: url("Design/Gallery_Master/aly2_bookstore.jpg") no-repeat center center; 
+    background: url("Design/Gallery_Master/aly2_bookstore.jpg") no-repeat center;
+    background-size: cover;
+    /*
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    */
     height:750px;
     float: left;
     width:97%;
